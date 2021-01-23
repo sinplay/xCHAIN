@@ -2447,3 +2447,10 @@ textarea {
 .contact-info .social-networks ul li a:hover {
     color: #FE980F;
 }
+
+@@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto-Condensed.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
